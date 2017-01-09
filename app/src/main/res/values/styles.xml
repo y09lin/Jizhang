@@ -8,4 +8,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="ItemCheckbox">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/check_selector</item>
+        <item name="android:button">@null</item>
+        <item name="android:clickable">false</item>
+        <item name="android:focusable">false</item>
+    </style>
 </resources>

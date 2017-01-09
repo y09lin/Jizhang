@@ -5,4 +5,6 @@
     <color name="colorAccent">#FF4081</color>
 
     <color name="line_color">#e5e5e5</color>
+
+    <color name="grey_128">#808080</color>
 </resources>
