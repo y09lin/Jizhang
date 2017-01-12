@@ -3,6 +3,7 @@
     package="com.huim.money">
 
     <application
+        android:name=".application.MoneyApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"

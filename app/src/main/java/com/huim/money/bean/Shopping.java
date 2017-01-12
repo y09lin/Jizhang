@@ -9,7 +9,7 @@ import java.util.UUID;
 /**
  * 购物清单
  */
-@Table(name = "Shopping")
+@Table(name = "shop")
 public class Shopping implements Serializable{
     @Column(name = "id",isId = true)
     private String id;
@@ -32,6 +32,7 @@ public class Shopping implements Serializable{
     @Column(name = "off")
     private String off;
 
+    public Shopping(){}
     public Shopping(String n,float p,String m,String t, String b){
         new Shopping(n,p,m,t,b,false);
     }

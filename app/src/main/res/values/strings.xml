@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Money</string>
+
+    <string name="cancel">取消</string>
+    <string name="sure">确定</string>
+
+    <string name="add_shopping_title">添加购物信息</string>
+    <string name="payoff">结清了</string>
+
+    <string name="err_name_empty">快告诉我买了啥！</string>
+    <string name="err_market_empty">快告诉我在哪买的！</string>
+    <string name="err_bank_empty">快告诉我钱哪来的！</string>
+    <string name="err_price_empty">快告诉我花了多少钱！</string>
+
 </resources>

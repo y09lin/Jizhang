@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ShoppingMarkets">
+        <item>淘宝</item>
+        <item>天猫</item>
+        <item>京东</item>
+        <item>当当</item>
+        <item>考拉</item>
+        <item>实体店</item>
+    </string-array>
+
+    <string-array name="Banks">
+        <item>招商信用卡</item>
+        <item>建行信用卡</item>
+        <item>民生信用卡</item>
+        <item>支付宝</item>
+        <item>微信</item>
+        <item>现金</item>
+    </string-array>
+</resources>
