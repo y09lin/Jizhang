@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Money</string>
+    <string name="shopping_list">钱都去哪了</string>
 
     <string name="cancel">取消</string>
     <string name="sure">确定</string>
